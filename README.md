@@ -114,7 +114,7 @@ This dual strategy:
 
 ## 📄 Full Report
 
-📎 [View Full PDF Report](./report/Business_Analytics_Project_PHI.pdf)
+📎 [View Full PDF Report](report/Sakshi_Assessment 3_Foundation.pdf)
 
 ---
 
