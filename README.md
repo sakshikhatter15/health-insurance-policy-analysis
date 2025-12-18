@@ -114,7 +114,7 @@ This dual strategy:
 
 ## 📄 Full Report
 
-📎 [View Full PDF Report](.report/Sakshi_Assessment 3_Foundation.pdf)
+📎 [View Full PDF Report](.report/Sakshi_Assessment_3_Foundation.pdf)
 
 ---
 
